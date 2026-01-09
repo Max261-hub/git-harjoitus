@@ -3,3 +3,4 @@ Sokeria
 Jugurtti
 Banaani
 Mehu
+Teetä
