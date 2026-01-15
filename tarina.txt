@@ -1,5 +1,5 @@
     #Tässä lyhyt tarina:
-
+Tämä on paikallisesti kirjoitettu versio tarinasta
 Erä aamuna pieni lintu huomasi, ettei aurinko noussutkaan tavalliseen tapaan. 
 Taivas oli harmaa ja hiljainen. 
 Lintu päätti lentää korkeammalle kuin koskaan ennen.
